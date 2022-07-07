@@ -28,7 +28,7 @@ $a =new Automovile();
 $a->marca="toyota";
 $a->modelo="corolla";
 $a->mostrar($a->modelo);
-
+#
 $b=new Automovile();
 $a->marca="nissan";
 $a->modelo="accent vision";
